@@ -7,4 +7,4 @@ Delete card and append new card
 
 This is implemented using AngularJS
 
-http://swathipaipalle.github.io/card-stack/
+http://codesamples.tk/
