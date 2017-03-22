@@ -7,4 +7,3 @@ Delete card and append new card
 
 This is implemented using AngularJS
 
-http://codesamples.tk/
